@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:0,360 TV (720p) [Not 24/7]
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:0,A Haber
+https://ythls.armelin.one/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
+#EXTINF:0,A Spor (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8
+#EXTINF:0,BBN Türk (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCqq-1-YntK4Gq53Ka9PaVlg.m3u8
+#EXTINF:0,BENGÜTÜRK TV (720p) [Not 24/7]
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+#EXTINF:0,Beyaz TV (720p) [Not 24/7]
+https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
+#EXTINF:0,Bloomberg HT
+https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
+#EXTINF:0,Ekoturk
+https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
+#EXTINF:0,Haber Global
+https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
+#EXTINF:0,IBB TV (1080p)
+http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
+#EXTINF:0,Kanal D (1080p)
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:0,KRT (720p)
+https://krt.blutv.com/blutv_krt_live/live.m3u8
+#EXTINF:0,NOW TV
+http://bozztv.com/gin-trn09/gin-turkfoxtv/tracks-v1a1/mono.m3u8
+#EXTINF:0,NTV (720p) [Not 24/7]
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:0,NTV Spor
+http://46.4.193.238:8484/hls/ntvspor/playlist.m3u8
+#EXTINF:0,Show TV
+http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8
+#EXTINF:0,Star TV (720p) [Not 24/7]
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:0,Teve2 (1080p)
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:0,TGRT Belgesel TV (576p)
+https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
+#EXTINF:0,TGRT Europe (1080p)
+https://canli.tgrteu.com/tgrteu.m3u8
+#EXTINF:0,TGRT Haber (720p)
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:0,TRT 1 (1080p)
+https://trt1.persona.video/master.m3u8?hls=1
+#EXTINF:0,TRT 2
+https://trt2.blutv.com/blutv_trt2/live.m3u8
+#EXTINF:0,TRT 4K (2160p)
+https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8
+#EXTINF:0,TRT Avaz (720p)
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:0,TRT Belgesel (720p)
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:0,TRT Çocuk (720p)
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:0,TRT Diyanet Çocuk (720p)
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:0,TRT Haber (720p)
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:0,TRT Müzik (720p)
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:0,TRT Spor (1080p) [Geo-blocked]
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:0,TRT Spor Yildiz (1080p) [Geo-blocked]
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:0,TRT Turk
+https://trtturk.blutv.com/blutv_trtturk2/live.m3u8
+#EXTINF:0,TürkHaber (720p)
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+#EXTINF:0,TV 1 (720p)
+https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
+#EXTINF:0,TV4 (720p)
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:0,TV 8 (1080p) [Not 24/7]
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:0,TV 8.5 (720p)
+http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8
+#EXTINF:0,TVnet (720p)
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:0,bein_sports_1_hd
+https://alpha.cf-worker-79fcc0bcc2f40b56.workers.dev/live/tbeinsports-1/playlist.m3u8
+#EXTINF:0,bein_sports_2_hd
+https://alpha.cf-worker-79fcc0bcc2f40b56.workers.dev/live/tbeinsports-2/playlist.m3u8
+#EXTINF:0,bein_sports_3_hd
+https://alpha.cf-worker-79fcc0bcc2f40b56.workers.dev/live/tbeinsports-3/playlist.m3u8
+#EXTINF:0,bein_sports_5_hd
+https://alpha.cf-worker-79fcc0bcc2f40b56.workers.dev/live/tbeinsports-5/playlist.m3u8
+#EXTINF:0,tivibusport-1
+https://alpha.cf-worker-79fcc0bcc2f40b56.workers.dev/live/ttivibuspor-1/playlist.m3u8
+#EXTINF:0,tivibusport-2
+https://alpha.cf-worker-79fcc0bcc2f40b56.workers.dev/live/ttivibuspor-2/playlist.m3u8
+#EXTINF:0,tivibusport-3
+https://alpha.cf-worker-79fcc0bcc2f40b56.workers.dev/live/ttivibuspor-3/playlist.m3u8
+#EXTINF:0,tivibusport-4
+https://alpha.cf-worker-79fcc0bcc2f40b56.workers.dev/live/ttivibuspor-4/playlist.m3u8
+#EXTINF:0,S-Sport-1
+https://alpha.cf-worker-79fcc0bcc2f40b56.workers.dev/live/tssport/playlist.m3u8
