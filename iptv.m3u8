@@ -95,3 +95,5 @@ https://alpha.cf-worker-97d2b270c90d1671.workers.dev/live/ttivibuspor-3/playlist
 https://alpha.cf-worker-97d2b270c90d1671.workers.dev/live/ttivibuspor-4/playlist.m3u8
 #EXTINF:0,S-Sport-1
 https://alpha.cf-worker-97d2b270c90d1671.workers.dev/live/tssport/playlist.m3u8
+#EXTINF:0,S-Sport-2
+https://alpha.cf-worker-97d2b270c90d1671.workers.dev/live/tssport2/playlist.m3u8
